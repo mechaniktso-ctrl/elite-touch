@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.hprof
+
+# Local SDK location
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local test artifacts
+*.log
+/EliteTouch-*.apk
