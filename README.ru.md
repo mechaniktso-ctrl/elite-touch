@@ -66,8 +66,6 @@ cd elite-touch
 # APK: app/build/outputs/apk/release/app-release.apk
 ```
 
-GitHub Actions workflow в `.github/workflows/build.yml` собирает debug APK при каждом push.
-
 В проекте нет внешних зависимостей, кроме Android framework: ни AndroidX, ни Compose, ни
 игрового движка. Рендер — собственный `View`/`Canvas`, симуляция — обычный Java.
 

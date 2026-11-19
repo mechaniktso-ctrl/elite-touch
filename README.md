@@ -65,8 +65,6 @@ cd elite-touch
 # APK: app/build/outputs/apk/release/app-release.apk
 ```
 
-A GitHub Actions workflow in `.github/workflows/build.yml` builds a debug APK on every push.
-
 The project intentionally has no external dependencies beyond the Android framework: no
 AndroidX, no Compose, no game engine. Rendering is a custom `View`/`Canvas` loop, and the
 simulation is plain Java.
