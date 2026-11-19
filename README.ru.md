@@ -5,7 +5,7 @@
 синтезированный ретро-звук. Один маленький APK, полностью офлайн, без рекламы и сторонних
 библиотек.
 
-[**Скачать APK**](dist/EliteTouch-1.0.apk) · [English README](README.md)
+[**Скачать APK**](https://github.com/mechaniktso-ctrl/elite-touch/releases/latest) · [English README](README.md)
 
 ![Титульный экран](docs/screenshots/title.png)
 
@@ -50,7 +50,8 @@
 
 ## Установка
 
-Скачайте [`dist/EliteTouch-1.0.apk`](dist/EliteTouch-1.0.apk) на телефон и откройте файл.
+Скачайте APK из [последнего релиза](https://github.com/mechaniktso-ctrl/elite-touch/releases/latest) (он же лежит в
+[`dist/EliteTouch-1.0.apk`](dist/EliteTouch-1.0.apk)) и откройте файл на телефоне.
 Может понадобиться разрешить установку из браузера/файлового менеджера. APK подписан
 локальным отладочным ключом — для личной установки этого достаточно; для Google Play
 настройте собственный release-ключ.

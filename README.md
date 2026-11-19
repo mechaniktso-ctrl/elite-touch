@@ -5,7 +5,7 @@ from the ground up for touch screens. Wireframe 3D, pirates, docking, trading, h
 commander ranks, permadeath and synthesized retro sound — in a single small APK, offline,
 with no ads and no third-party libraries.
 
-[**Download the APK**](dist/EliteTouch-1.0.apk) · [Русская инструкция](README.ru.md)
+[**Download the APK**](https://github.com/mechaniktso-ctrl/elite-touch/releases/latest) · [Русская инструкция](README.ru.md)
 
 ![Elite Touch title screen](docs/screenshots/title.png)
 
@@ -49,8 +49,8 @@ with no ads and no third-party libraries.
 
 ## Install
 
-Download [`dist/EliteTouch-1.0.apk`](dist/EliteTouch-1.0.apk) on an Android device and open
-it. You may need to allow installation from your browser/file manager. The APK is signed with
+Download the APK from the [latest release](https://github.com/mechaniktso-ctrl/elite-touch/releases/latest) (it is also committed at
+[`dist/EliteTouch-1.0.apk`](dist/EliteTouch-1.0.apk)) and open it on an Android device. You may need to allow installation from your browser/file manager. The APK is signed with
 a local debug key, which is fine for personal sideloading; configure your own release signing
 before publishing on Google Play.
 
